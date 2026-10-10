@@ -1,0 +1,24 @@
+# Compiled Java class files
+*.class
+bin/
+out/
+
+# IDE and editor metadata
+.vscode/
+.idea/
+*.iml
+.qodo/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build tools
+*.jar
+*.war
+
+# Temporary files
+*.tmp
+*.swp
+*~
